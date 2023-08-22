@@ -31,3 +31,4 @@ def connectURI(server, port) :
 #호출
 print(connectURI("multicampus.com", "80"))
 print(connectURI(port="80", server = "multicampus.com"))
+
