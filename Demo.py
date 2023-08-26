@@ -1,3 +1,4 @@
 # Demo.yp
-print("Hello vs Code")
+result = 3+5
+print(result)
 
